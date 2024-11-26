@@ -1,0 +1,59 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+p, li {
+    color: #666;
+}
+
+/* Encabezados */
+h1 {
+    background-color: #5D8AA8;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h2 {
+    border-bottom: 2px solid #5D8AA8;
+    padding-bottom: 5px;
+}
+
+/* Contenido principal */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.img{
+    top: 20px; /* Ajusta la imagen 20px hacia abajo desde su posición original */
+  right: -55%; /* Ajusta la imagen 50px hacia la derecha desde su posición original */
+  width: 25%;
+  height: 25%;
+}
