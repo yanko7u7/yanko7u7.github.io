@@ -1,5 +1,5 @@
 window.onload = function() {
-    alert('Hola, bienvenido al Centro de Ayuda para Adicciones');
+    alert('Este Citio Contiene Cookies.');
 };
 
   
